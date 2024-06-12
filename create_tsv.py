@@ -18,3 +18,5 @@ with open(file_path, mode='w', newline='') as file:
     writer.writerows(data)
 
 print(f"Data has been written to {file_path}")
+
+ 

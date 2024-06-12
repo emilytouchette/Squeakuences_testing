@@ -18,3 +18,5 @@ plt.grid(True)
 plt.xticks(df["Cores Used"])  # Ensure x-ticks match the number of cores
 plt.savefig("processing_time_vs_cores_used.pdf")
 plt.show()
+
+  
